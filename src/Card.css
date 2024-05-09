@@ -1,0 +1,75 @@
+.name_text {
+    width: 134px;
+    height: 39px;
+    /* justify: space-between; */
+    /* padding: 0 0 0 6px; */
+
+}
+
+.name_text p {
+    font-family: Clash Display;
+    font-size: 6px;
+    font-weight: 600;
+    line-height: 5.4px;
+    /* letter-spacing: -0.01em; */
+    text-align: left;
+    /* padding-left: 6px; */
+    color: #FD9800;
+    ;
+  
+  }
+
+h3 {
+    font-family: Clash Display;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 12px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    /* padding: 0 0 4px 0; */
+    padding-top: 10px;
+
+
+}
+.mentor_tag {
+    width: 28px;
+    height: 7px;
+    padding: 5px 10px 3px 7px;
+    /* gap: 10px; */
+    border-radius: 14px;
+    /* background: #e6ea0a; */
+    background: radial-gradient(circle at center, #FFF6A5 0%, #FFD43B 100%);
+  
+    font-family: Clash Display;
+    font-size: 7px;
+    font-weight: 600;
+    line-height: 5.4px;
+    position: absolute;
+    margin: -6px 85px;
+  
+  
+  }
+  
+
+.card_box {
+    width: 146px;
+    height: 177px;
+    /* padding: 2.5px 0px 0px 0px; */
+    padding: 6px 6px 16px 6px;
+
+
+    border-width: 0.6px;
+    border-color: #EBEBEB;
+    border-style: solid;
+    position: "relative";
+    overflow: "visible";
+    transition: "transform 0.3s";
+    
+}
+
+.card_img {
+    width: 134px;
+    height: 110px;
+    padding: 6px;
+  }
+  

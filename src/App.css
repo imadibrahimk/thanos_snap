@@ -1,0 +1,15 @@
+.snapButton {
+  /* text-align: center; */
+  position: fixed;
+  bottom: 200px;
+  left: 400px;
+  /* width: 100%; */
+}
+
+.snapButton > button {
+  font-size: 60px;
+  font-weight: bold;
+}
+.snapButton img {
+  width: 150px;
+}
